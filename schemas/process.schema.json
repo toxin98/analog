@@ -1,0 +1,11 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Process",
+  "type": "string",
+  "enum": [
+    "C-41",
+    "D-76",
+    "E-6",
+    "ECN-2"
+  ]
+}
