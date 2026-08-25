@@ -1,0 +1,19 @@
+{
+  "id": "0003",
+  "film": "Kodak 5207",
+  "camera": "Pentax PC35AF",
+  "date": {
+    "started": "2023-05-28",
+    "finished": "2023-05-28"
+  },
+  "development": {
+    "lab": "上海, F212沸点",
+    "process": "ECN-2",
+    "digitization": {
+      "method": "scanner",
+      "brand": "Noritsu",
+      "model": null
+    }
+  },
+  "note": ""
+}

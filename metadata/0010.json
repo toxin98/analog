@@ -1,0 +1,19 @@
+{
+  "id": "0010",
+  "film": "Kodak Gold 200",
+  "camera": "Pentax LX",
+  "date": {
+    "started": "2026-04-28",
+    "finished": "2026-05-03"
+  },
+  "development": {
+    "lab": "上海, Irohas Photo",
+    "process": "C-41",
+    "digitization": {
+      "method": "scanner",
+      "brand": "Fujifilm",
+      "model": "Frontier SP-500"
+    }
+  },
+  "note": ""
+}

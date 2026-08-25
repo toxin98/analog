@@ -1,0 +1,19 @@
+{
+  "id": "0006",
+  "film": "Kodak Gold 200",
+  "camera": "Pentax KX",
+  "date": {
+    "started": "2024-08-17",
+    "finished": "2025-04-29"
+  },
+  "development": {
+    "lab": "南京, 南京丰悦",
+    "process": "C-41",
+    "digitization": {
+      "method": "scanner",
+      "brand": "Fujifilm",
+      "model": "Frontier SP-3000"
+    }
+  },
+  "note": ""
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Camera Model",
+  "type": "string",
+  "enum": [
+    "Pentax KX",
+    "Pentax PC35AF",
+    "Pentax MX",
+    "Olympus MJU I",
+    "Pentax LX"
+  ]
+}

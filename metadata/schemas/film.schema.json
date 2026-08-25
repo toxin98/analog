@@ -1,0 +1,18 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Film Stock Directory",
+  "type": "string",
+  "enum": [
+    "Foma FOMAPAN 400",
+    "Fujifilm Fujicolor C200",
+    "Fujifilm Super HG 400",
+    "Fujifilm Superia 400",
+    "Kodak 5203",
+    "Kodak 5207",
+    "Kodak 5213",
+    "Kodak 5219",
+    "Kodak ColorPlus 200",
+    "Kodak Gold 200",
+    "Reflx Lab 800T"
+  ]
+}

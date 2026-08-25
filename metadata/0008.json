@@ -1,0 +1,19 @@
+{
+  "id": "0008",
+  "film": "Kodak ColorPlus 200",
+  "camera": "Olympus MJU I",
+  "date": {
+    "started": "2018-02-10",
+    "finished": "2026-02-10"
+  },
+  "development": {
+    "lab": "北京, 1350Film",
+    "process": "C-41",
+    "digitization": {
+      "method": "scanner",
+      "brand": "Noritsu",
+      "model": "HS-1800"
+    }
+  },
+  "note": "2020年过期胶卷，王瑶拍了大半留在相机里"
+}

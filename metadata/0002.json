@@ -1,0 +1,19 @@
+{
+  "id": "0002",
+  "film": "Kodak 5213",
+  "camera": "Pentax KX",
+  "date": {
+    "started": "2023-01-14",
+    "finished": "2023-05-28"
+  },
+  "development": {
+    "lab": "上海, F212沸点",
+    "process": "ECN-2",
+    "digitization": {
+      "method": "scanner",
+      "brand": "Noritsu",
+      "model": null
+    }
+  },
+  "note": ""
+}

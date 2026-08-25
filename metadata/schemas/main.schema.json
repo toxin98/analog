@@ -1,0 +1,45 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Photography Analog Metadata Schema",
+  "type": "object",
+  "required": ["id", "film", "camera", "date", "development", "note"],
+  "additionalProperties": false,
+  "properties": {
+
+    "id": {
+      "type": "string",
+      "pattern": "^[0-9]{4}$",
+      "description": "Roll unique ID (e.g., 0001)"
+    },
+
+    "film": { "$ref": "film.schema.json" },
+
+    "camera": { "$ref": "camera.schema.json" },
+
+    "date": {
+      "type": "object",
+      "required": ["started", "finished"],
+      "additionalProperties": false,
+      "properties": {
+        "started": { "type": "string", "format": "date" },
+        "finished": { "type": "string", "format": "date" }
+      }
+    },
+
+    "development": {
+      "type": "object",
+      "required": ["lab", "process", "digitization"],
+      "additionalProperties": false,
+      "properties": {
+        "lab": { "$ref": "lab.schema.json" },
+        "process": { "$ref": "process.schema.json" },
+        "digitization": { "$ref": "digitization.schema.json" }
+      }
+    },
+
+    "note": {
+      "type": "string"
+    }
+
+  }
+}

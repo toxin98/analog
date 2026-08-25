@@ -1,0 +1,19 @@
+{
+  "id": "0012",
+  "film": "Kodak Gold 200",
+  "camera": "Pentax LX",
+  "date": {
+    "started": "2025-02-15",
+    "finished": "2026-06-27"
+  },
+  "development": {
+    "lab": null,
+    "process": null,
+    "digitization": {
+      "method": null,
+      "brand": null,
+      "model": null
+    }
+  },
+  "note": "2025-02-15刚拿起来拍就卡反光板了，第二次拿起来拍是2026-06-27，如果第一张洗出来了，那开始日期记为2025-02-15"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "0007",
+  "film": "Foma FOMAPAN 400",
+  "camera": "Pentax MX",
+  "date": {
+    "started": "2026-01-11",
+    "finished": "2026-04-09"
+  },
+  "development": {
+    "lab": "北京, 1350Film",
+    "process": "D-76",
+    "digitization": {
+      "method": "scanner",
+      "brand": "Noritsu",
+      "model": "HS-1800"
+    }
+  },
+  "note": "试机的，测光准的，但是这机子有些小毛病，快门速度转盘太紧，计数器不走，快门有时会卡住使得机器一直测光，扳手完全关闭也能触发测光，偶尔反光板不下落"
+}

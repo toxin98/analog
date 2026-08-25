@@ -1,0 +1,45 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Digitization",
+  "type": "object",
+
+  "oneOf": [
+    {
+      "properties": {
+        "method": { "const": "camera" },
+        "details": { "type": "string" }
+      },
+      "required": ["method", "details"],
+      "additionalProperties": false
+    },
+    {
+      "properties": {
+        "method": { "const": "scanner" },
+        "brand": { "enum": ["Fujifilm", "Hasselblad", "Noritsu"] },
+        "model": { "type": "string" }
+      },
+      "required": ["method", "brand", "model"],
+      "additionalProperties": false,
+      "oneOf": [
+        {
+          "properties": {
+            "brand": { "const": "Fujifilm" },
+            "model": { "enum": ["Frontier SP-3000", "Frontier SP-500"] }
+          }
+        },
+        {
+          "properties": {
+            "brand": { "const": "Hasselblad" },
+            "model": { "enum": ["Flextight X5"] }
+          }
+        },
+        {
+          "properties": {
+            "brand": { "const": "Noritsu" },
+            "model": { "enum": ["HS-1800", "QSF-V30"] }
+          }
+        }
+      ]
+    }
+  ]
+}
