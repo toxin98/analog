@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Analog</title>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+  <script type="module" src="./js/script.js"></script>
+
+  <link rel="stylesheet" href="./css/style.css">
+</head>
+
+<body>
+
+  <header class="site-header">
+    <a href="/" class="site-title">Analog</a>
+  </header>
+
+  <main>
+
+    <!-- 1. 概览指标卡片 -->
+    <section class="stats-grid">
+      <div class="stat-card">
+        <div class="label">拍摄总卷数</div>
+        <div class="value" id="total-rolls">-</div>
+      </div>
+      <div class="stat-card">
+        <div class="label">最常用相机</div>
+        <div class="value" id="top-camera">-</div>
+      </div>
+      <div class="stat-card">
+        <div class="label">最常用胶卷</div>
+        <div class="value" id="top-film">-</div>
+      </div>
+      <div class="stat-card">
+        <div class="label">最常去冲洗店</div>
+        <div class="value" id="top-lab">-</div>
+      </div>
+    </section>
+
+    <!-- 2. 图表展示区 (新增) -->
+    <section class="charts-grid">
+      <div class="chart-card">
+        <h3>📷 相机使用频率 (柱状图)</h3>
+        <div class="chart-container">
+          <canvas id="cameraChart"></canvas>
+        </div>
+      </div>
+      <div class="chart-card">
+        <h3>🎞️ 胶卷类型比例 (饼状图)</h3>
+        <div class="chart-container">
+          <canvas id="filmChart"></canvas>
+        </div>
+      </div>
+    </section>
+
+    <div class="section-title">
+      <span>胶卷档案列表</span>
+    </div>
+    <div id="films-container" class="films-grid">
+      <!-- 由 script.js 自动生成内容 -->
+    </div>
+
+  </main>
+
+</body>
+</html>
