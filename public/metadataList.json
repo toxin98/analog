@@ -1,0 +1,268 @@
+[
+  {
+    "id": "0001",
+    "film": "Kodak 5219",
+    "camera": "Pentax KX",
+    "date": {
+      "started": "2022-10-03",
+      "finished": "2023-01-14"
+    },
+    "development": {
+      "lab": "上海, 菲林公园",
+      "process": "ECN-2",
+      "digitization": {
+        "method": "scanner",
+        "brand": "Noritsu",
+        "model": null
+      }
+    },
+    "note": ""
+  },
+  {
+    "id": "0002",
+    "film": "Kodak 5213",
+    "camera": "Pentax KX",
+    "date": {
+      "started": "2023-01-14",
+      "finished": "2023-05-28"
+    },
+    "development": {
+      "lab": "上海, F212沸点",
+      "process": "ECN-2",
+      "digitization": {
+        "method": "scanner",
+        "brand": "Noritsu",
+        "model": null
+      }
+    },
+    "note": ""
+  },
+  {
+    "id": "0003",
+    "film": "Kodak 5207",
+    "camera": "Pentax PC35AF",
+    "date": {
+      "started": "2023-05-28",
+      "finished": "2023-05-28"
+    },
+    "development": {
+      "lab": "上海, F212沸点",
+      "process": "ECN-2",
+      "digitization": {
+        "method": "scanner",
+        "brand": "Noritsu",
+        "model": null
+      }
+    },
+    "note": ""
+  },
+  {
+    "id": "0004",
+    "film": "Kodak ColorPlus 200",
+    "camera": "Pentax KX",
+    "date": {
+      "started": "2023-05-28",
+      "finished": "2024-08-17"
+    },
+    "development": {
+      "lab": "南京, 金陵银盐馆",
+      "process": "C-41",
+      "digitization": {
+        "method": "scanner",
+        "brand": "Fujifilm",
+        "model": "Frontier SP-3000"
+      }
+    },
+    "note": "2020年过期胶卷"
+  },
+  {
+    "id": "0005",
+    "film": "Fujifilm Fujicolor C200",
+    "camera": "Pentax PC35AF",
+    "date": {
+      "started": "2023-06-03",
+      "finished": "2024-09-01"
+    },
+    "development": {
+      "lab": "南京, 金陵银盐馆",
+      "process": "C-41",
+      "digitization": {
+        "method": "scanner",
+        "brand": "Fujifilm",
+        "model": "Frontier SP-3000"
+      }
+    },
+    "note": "2020年过期胶卷"
+  },
+  {
+    "id": "0006",
+    "film": "Kodak Gold 200",
+    "camera": "Pentax KX",
+    "date": {
+      "started": "2024-08-17",
+      "finished": "2025-04-29"
+    },
+    "development": {
+      "lab": "南京, 南京丰悦",
+      "process": "C-41",
+      "digitization": {
+        "method": "scanner",
+        "brand": "Fujifilm",
+        "model": "Frontier SP-3000"
+      }
+    },
+    "note": ""
+  },
+  {
+    "id": "0007",
+    "film": "Foma FOMAPAN 400",
+    "camera": "Pentax MX",
+    "date": {
+      "started": "2026-01-11",
+      "finished": "2026-04-09"
+    },
+    "development": {
+      "lab": "北京, 1350Film",
+      "process": "D-76",
+      "digitization": {
+        "method": "scanner",
+        "brand": "Noritsu",
+        "model": "HS-1800"
+      }
+    },
+    "note": "试机的，测光准的，但是这机子有些小毛病，快门速度转盘太紧，计数器不走，快门有时会卡住使得机器一直测光，扳手完全关闭也能触发测光，偶尔反光板不下落"
+  },
+  {
+    "id": "0008",
+    "film": "Kodak ColorPlus 200",
+    "camera": "Olympus MJU I",
+    "date": {
+      "started": "2018-02-10",
+      "finished": "2026-02-10"
+    },
+    "development": {
+      "lab": "北京, 1350Film",
+      "process": "C-41",
+      "digitization": {
+        "method": "scanner",
+        "brand": "Noritsu",
+        "model": "HS-1800"
+      }
+    },
+    "note": "2020年过期胶卷，王瑶拍了大半留在相机里"
+  },
+  {
+    "id": "0009",
+    "film": "Kodak 5203",
+    "camera": "Pentax LX",
+    "date": {
+      "started": "2026-04-26",
+      "finished": "2026-04-28"
+    },
+    "development": {
+      "lab": "上海, Irohas Photo",
+      "process": "ECN-2",
+      "digitization": {
+        "method": "scanner",
+        "brand": "Fujifilm",
+        "model": "Frontier SP-500"
+      }
+    },
+    "note": ""
+  },
+  {
+    "id": "0010",
+    "film": "Kodak Gold 200",
+    "camera": "Pentax LX",
+    "date": {
+      "started": "2026-04-28",
+      "finished": "2026-05-03"
+    },
+    "development": {
+      "lab": "上海, Irohas Photo",
+      "process": "C-41",
+      "digitization": {
+        "method": "scanner",
+        "brand": "Fujifilm",
+        "model": "Frontier SP-500"
+      }
+    },
+    "note": ""
+  },
+  {
+    "id": "0011",
+    "film": "Fujifilm Super HG 400",
+    "camera": "Pentax PC35AF",
+    "date": {
+      "started": "2026-02-21",
+      "finished": null
+    },
+    "development": {
+      "lab": null,
+      "process": null,
+      "digitization": {
+        "method": null,
+        "brand": null,
+        "model": null
+      }
+    },
+    "note": "机器是date版本，胶片是日淘的相机里自带的，推算过期30年，按50拍"
+  },
+  {
+    "id": "0012",
+    "film": "Kodak Gold 200",
+    "camera": "Pentax LX",
+    "date": {
+      "started": "2025-02-15",
+      "finished": "2026-06-27"
+    },
+    "development": {
+      "lab": null,
+      "process": null,
+      "digitization": {
+        "method": null,
+        "brand": null,
+        "model": null
+      }
+    },
+    "note": "2025-02-15刚拿起来拍就卡反光板了，第二次拿起来拍是2026-06-27，如果第一张洗出来了，那开始日期记为2025-02-15"
+  },
+  {
+    "id": "0013",
+    "film": "Reflx Lab 800T",
+    "camera": "Pentax MX",
+    "date": {
+      "started": "2026-08-16",
+      "finished": "2026-08-16"
+    },
+    "development": {
+      "lab": "大连, 感光实验室",
+      "process": "C-41",
+      "digitization": {
+        "method": "scanner",
+        "brand": "Noritsu",
+        "model": "HS-1800"
+      }
+    },
+    "note": ""
+  },
+  {
+    "id": "0014",
+    "film": "Reflx Lab 800T",
+    "camera": "Olympus MJU I",
+    "date": {
+      "started": "2026-08-16",
+      "finished": "2026-08-16"
+    },
+    "development": {
+      "lab": "大连, 感光实验室",
+      "process": "C-41",
+      "digitization": {
+        "method": "scanner",
+        "brand": "Noritsu",
+        "model": "HS-1800"
+      }
+    },
+    "note": ""
+  }
+]

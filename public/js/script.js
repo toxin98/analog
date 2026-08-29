@@ -2,8 +2,16 @@ console.log("script.js loaded");
 
 document.addEventListener("DOMContentLoaded", async () => {
   try { 
-    const metadataList = await loadMetadata();
-    console.log("成功构建的数组：", metadataList);
+    // 1. 请求 JSON 文件（注意路径，同目录下直接写文件名即可）
+    const response = await fetch('./metadataList.json');
+    
+    // 2. 检查请求是否成功
+    if (!response.ok) {
+      throw new Error(`HTTP 错误! 状态码: ${response.status}`);
+    }
+    
+    // 3. 将返回的数据解析为 JavaScript 对象/数组
+    const metadataList = await response.json();
     
     renderOverview(metadataList);
     renderCharts(metadataList);
