@@ -3,6 +3,7 @@ console.log("script.js loaded");
 document.addEventListener("DOMContentLoaded", async () => {
   try { 
     const metadataList = await loadMetadata();
+    console.log("成功构建的数组：", metadataList);
     
     renderOverview(metadataList);
     renderCharts(metadataList);
@@ -14,31 +15,30 @@ document.addEventListener("DOMContentLoaded", async () => {
 
 // 读取 index.json，然后逐个读取胶卷 JSON
 async function loadMetadata() {
-  const indexResponse = await fetch("./index.json");
+  const metadataList = [];
+  let index = 1;
 
-  if (!indexResponse.ok) {
-    throw new Error("无法加载 ./index.json");
-  }
-
-  const files = await indexResponse.json();
-
-  if (!Array.isArray(files)) {
-    throw new Error("./index.json 必须是 JSON 数组");
-  }
-
-  const metadata = await Promise.all(
-    files.map(async (file) => {
-      const response = await fetch(`../metadata/${file}`);
-
+  while (true) {
+    // 补齐两位数，如 1 -> "0001", 2 -> "0002"
+    const fileName = `${String(index).padStart(4, "0")}.json`;
+    
+    try {
+      const response = await fetch(`./metadata/${fileName}`);
+      
+      // 如果找不到文件（例如查到 roll-03.json 报 404），终止循环
       if (!response.ok) {
-        throw new Error(`无法加载 ${file}`);
+        break; 
       }
+      
+      const data = await response.json();
+      metadataList.push(data);
+      index++;
+    } catch (error) {
+      break;
+    }
+  }
 
-      return response.json();
-    })
-  );
-
-  return metadata;
+  return metadataList;
 }
 
 // 辅助：计算某个字段值的频次并排序
