@@ -1,0 +1,19 @@
+{
+  "id": "0005",
+  "film": "Fujifilm Fujicolor C200",
+  "camera": "Pentax PC35AF",
+  "date": {
+    "started": "2023-06-03",
+    "finished": "2024-09-01"
+  },
+  "development": {
+    "lab": "南京, 金陵银盐馆",
+    "process": "C-41",
+    "digitization": {
+      "method": "scanner",
+      "brand": "Fujifilm",
+      "model": "Frontier SP-3000"
+    }
+  },
+  "note": "2020年过期胶卷"
+}

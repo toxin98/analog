@@ -1,0 +1,19 @@
+{
+  "id": "0014",
+  "film": "Reflx Lab 800T",
+  "camera": "Olympus MJU I",
+  "date": {
+    "started": "2026-08-16",
+    "finished": "2026-08-16"
+  },
+  "development": {
+    "lab": "大连, 感光实验室",
+    "process": "C-41",
+    "digitization": {
+      "method": "scanner",
+      "brand": "Noritsu",
+      "model": "HS-1800"
+    }
+  },
+  "note": ""
+}

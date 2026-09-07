@@ -1,0 +1,19 @@
+{
+  "id": "0011",
+  "film": "Fujifilm Super HG 400",
+  "camera": "Pentax PC35AF",
+  "date": {
+    "started": "2026-02-21",
+    "finished": null
+  },
+  "development": {
+    "lab": null,
+    "process": null,
+    "digitization": {
+      "method": null,
+      "brand": null,
+      "model": null
+    }
+  },
+  "note": "机器是date版本，胶片是日淘的相机里自带的，推算过期30年，按50拍"
+}
