@@ -1,6 +1,7 @@
 {
   "id": "0008",
   "film": "Kodak ColorPlus 200",
+  "format": "135",
   "camera": "Olympus MJU I",
   "date": {
     "started": "2018-02-10",
@@ -15,5 +16,6 @@
       "model": "HS-1800"
     }
   },
-  "note": "2020年过期胶卷，王瑶拍了大半留在相机里"
+  "note": "2020年过期胶卷，王瑶拍了大半留在相机里",
+  "updated": "2026-09-09T02:25:46.320Z"
 }

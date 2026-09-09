@@ -1,6 +1,7 @@
 {
   "id": "0014",
   "film": "Reflx Lab 800T",
+  "format": "135",
   "camera": "Olympus MJU I",
   "date": {
     "started": "2026-08-16",
@@ -15,5 +16,6 @@
       "model": "HS-1800"
     }
   },
-  "note": ""
+  "note": "",
+  "updated": "2026-09-09T02:20:12.944Z"
 }

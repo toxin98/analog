@@ -1,6 +1,7 @@
 {
   "id": "0013",
   "film": "Reflx Lab 800T",
+  "format": "135",
   "camera": "Pentax MX",
   "date": {
     "started": "2026-08-16",
@@ -15,5 +16,6 @@
       "model": "HS-1800"
     }
   },
-  "note": ""
+  "note": "",
+  "updated": "2026-09-08T10:52:37.105Z"
 }

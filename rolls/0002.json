@@ -1,6 +1,7 @@
 {
   "id": "0002",
   "film": "Kodak 5213",
+  "format": "135",
   "camera": "Pentax KX",
   "date": {
     "started": "2023-01-14",
@@ -12,8 +13,9 @@
     "digitization": {
       "method": "scanner",
       "brand": "Noritsu",
-      "model": null
+      "model": ""
     }
   },
-  "note": ""
+  "note": "",
+  "updated": "2026-09-09T02:26:13.600Z"
 }

@@ -1,6 +1,7 @@
 {
   "id": "0005",
   "film": "Fujifilm Fujicolor C200",
+  "format": "135",
   "camera": "Pentax PC35AF",
   "date": {
     "started": "2023-06-03",
@@ -15,5 +16,6 @@
       "model": "Frontier SP-3000"
     }
   },
-  "note": "2020年过期胶卷"
+  "note": "2020年过期胶卷",
+  "updated": "2026-09-09T02:26:01.134Z"
 }
