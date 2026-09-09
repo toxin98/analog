@@ -1,0 +1,21 @@
+{
+  "id": "roll_0001",
+  "film": "Kodak 5219",
+  "format": "135",
+  "camera": "Pentax KX",
+  "date": {
+    "started": "2022-10-03",
+    "finished": "2023-01-14"
+  },
+  "development": {
+    "lab": "上海, 菲林公园",
+    "process": "ECN-2",
+    "digitization": {
+      "method": "scanner",
+      "brand": "Noritsu",
+      "model": ""
+    }
+  },
+  "note": "",
+  "updated": "2026-09-09T02:26:25.828Z"
+}

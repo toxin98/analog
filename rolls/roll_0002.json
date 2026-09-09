@@ -1,14 +1,14 @@
 {
-  "id": "0001",
-  "film": "Kodak 5219",
+  "id": "roll_0002",
+  "film": "Kodak 5213",
   "format": "135",
   "camera": "Pentax KX",
   "date": {
-    "started": "2022-10-03",
-    "finished": "2023-01-14"
+    "started": "2023-01-14",
+    "finished": "2023-05-28"
   },
   "development": {
-    "lab": "上海, 菲林公园",
+    "lab": "上海, F212沸点",
     "process": "ECN-2",
     "digitization": {
       "method": "scanner",
@@ -17,5 +17,5 @@
     }
   },
   "note": "",
-  "updated": "2026-09-09T02:26:25.828Z"
+  "updated": "2026-09-09T02:26:13.600Z"
 }

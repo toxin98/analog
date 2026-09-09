@@ -1,14 +1,14 @@
 {
-  "id": "0004",
-  "film": "Kodak ColorPlus 200",
+  "id": "roll_0006",
+  "film": "Kodak Gold 200",
   "format": "135",
   "camera": "Pentax KX",
   "date": {
-    "started": "2023-05-28",
-    "finished": "2024-08-17"
+    "started": "2024-08-17",
+    "finished": "2025-04-29"
   },
   "development": {
-    "lab": "南京, 金陵银盐馆",
+    "lab": "南京, 南京丰悦",
     "process": "C-41",
     "digitization": {
       "method": "scanner",
@@ -16,6 +16,6 @@
       "model": "Frontier SP-3000"
     }
   },
-  "note": "2020年过期胶卷",
-  "updated": "2026-09-09T02:26:05.512Z"
+  "note": "",
+  "updated": "2026-09-09T02:25:56.141Z"
 }

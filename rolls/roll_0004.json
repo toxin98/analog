@@ -1,11 +1,11 @@
 {
-  "id": "0005",
-  "film": "Fujifilm Fujicolor C200",
+  "id": "roll_0004",
+  "film": "Kodak ColorPlus 200",
   "format": "135",
-  "camera": "Pentax PC35AF",
+  "camera": "Pentax KX",
   "date": {
-    "started": "2023-06-03",
-    "finished": "2024-09-01"
+    "started": "2023-05-28",
+    "finished": "2024-08-17"
   },
   "development": {
     "lab": "南京, 金陵银盐馆",
@@ -17,5 +17,5 @@
     }
   },
   "note": "2020年过期胶卷",
-  "updated": "2026-09-09T02:26:01.134Z"
+  "updated": "2026-09-09T02:26:05.512Z"
 }
