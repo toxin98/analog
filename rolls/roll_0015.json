@@ -9,12 +9,12 @@
   },
   "development": {
     "lab": "没想好",
-    "process": "",
-    "digitization": {
-      "method": "",
-      "brand": "",
-      "model": ""
-    }
+    "process": ""
+  },
+  "digitization": {
+    "method": "",
+    "brand": "",
+    "model": ""
   },
   "note": "",
   "updated": "2026-09-09T02:58:49.376Z"

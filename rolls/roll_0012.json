@@ -9,12 +9,12 @@
   },
   "development": {
     "lab": "",
-    "process": "",
-    "digitization": {
-      "method": "",
-      "brand": "",
-      "model": ""
-    }
+    "process": ""
+  },
+  "digitization": {
+    "method": "",
+    "brand": "",
+    "model": ""
   },
   "note": "2025-02-15刚拿起来拍就卡反光板了，第二次拿起来拍是2026-06-27，如果第一张洗出来了，那开始日期记为2025-02-15",
   "updated": "2026-09-09T02:21:57.808Z"

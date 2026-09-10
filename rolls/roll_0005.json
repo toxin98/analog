@@ -9,12 +9,12 @@
   },
   "development": {
     "lab": "南京, 金陵银盐馆",
-    "process": "C-41",
-    "digitization": {
-      "method": "scanner",
-      "brand": "Fujifilm",
-      "model": "Frontier SP-3000"
-    }
+    "process": "C-41"
+  },
+  "digitization": {
+    "method": "scanner",
+    "brand": "Fujifilm",
+    "model": "Frontier SP-3000"
   },
   "note": "2020年过期胶卷",
   "updated": "2026-09-09T02:26:01.134Z"

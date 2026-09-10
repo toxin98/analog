@@ -9,12 +9,12 @@
   },
   "development": {
     "lab": "上海, F212沸点",
-    "process": "ECN-2",
-    "digitization": {
-      "method": "scanner",
-      "brand": "Noritsu",
-      "model": ""
-    }
+    "process": "ECN-2"
+  },
+  "digitization": {
+    "method": "scanner",
+    "brand": "Noritsu",
+    "model": ""
   },
   "note": "",
   "updated": "2026-09-09T02:26:13.600Z"

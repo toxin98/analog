@@ -9,12 +9,12 @@
   },
   "development": {
     "lab": "北京, 1350Film",
-    "process": "C-41",
-    "digitization": {
-      "method": "scanner",
-      "brand": "Noritsu",
-      "model": "HS-1800"
-    }
+    "process": "C-41"
+  },
+  "digitization": {
+    "method": "scanner",
+    "brand": "Noritsu",
+    "model": "HS-1800"
   },
   "note": "2020年过期胶卷，王瑶拍了大半留在相机里",
   "updated": "2026-09-09T02:25:46.320Z"

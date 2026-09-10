@@ -9,12 +9,12 @@
   },
   "development": {
     "lab": "上海, Irohas Photo",
-    "process": "ECN-2",
-    "digitization": {
-      "method": "scanner",
-      "brand": "Fujifilm",
-      "model": "Frontier SP-500"
-    }
+    "process": "ECN-2"
+  },
+  "digitization": {
+    "method": "scanner",
+    "brand": "Fujifilm",
+    "model": "Frontier SP-500"
   },
   "note": "",
   "updated": "2026-09-09T02:25:41.650Z"

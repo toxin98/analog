@@ -9,12 +9,12 @@
   },
   "development": {
     "lab": "南京, 南京丰悦",
-    "process": "C-41",
-    "digitization": {
-      "method": "scanner",
-      "brand": "Fujifilm",
-      "model": "Frontier SP-3000"
-    }
+    "process": "C-41"
+  },
+  "digitization": {
+    "method": "scanner",
+    "brand": "Fujifilm",
+    "model": "Frontier SP-3000"
   },
   "note": "",
   "updated": "2026-09-09T02:25:56.141Z"
