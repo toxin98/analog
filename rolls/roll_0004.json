@@ -1,6 +1,9 @@
 {
   "id": "roll_0004",
-  "film": "Kodak ColorPlus 200",
+  "film": {
+    "brand": "Kodak",
+    "model": "ColorPlus 200"
+  },
   "format": "135",
   "camera": "Pentax KX",
   "date": {
@@ -11,11 +14,13 @@
     "lab": "南京, 金陵银盐馆",
     "process": "C-41"
   },
-  "digitization": {
-    "method": "scanner",
-    "brand": "Fujifilm",
-    "model": "Frontier SP-3000"
-  },
+  "digitization": [
+    {
+      "method": "scanner",
+      "brand": "Fujifilm",
+      "model": "Frontier SP-3000"
+    }
+  ],
   "note": "2020年过期胶卷",
   "updated": "2026-09-09T02:26:05.512Z"
 }

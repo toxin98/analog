@@ -1,6 +1,9 @@
 {
   "id": "roll_0011",
-  "film": "Fujifilm Super HG 400",
+  "film": {
+    "brand": "Fujifilm",
+    "model": "Super HG 400"
+  },
   "format": "135",
   "camera": "Pentax PC35AF",
   "date": {
@@ -11,11 +14,13 @@
     "lab": "",
     "process": ""
   },
-  "digitization": {
-    "method": "",
-    "brand": "",
-    "model": ""
-  },
+  "digitization": [
+    {
+      "method": "",
+      "brand": "",
+      "model": ""
+    }
+  ],
   "note": "机器是date版本，胶片是日淘的相机里自带的，推算过期30年，按50拍",
   "updated": "2026-09-09T02:25:20.314Z"
 }

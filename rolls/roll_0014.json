@@ -1,6 +1,9 @@
 {
   "id": "roll_0014",
-  "film": "Reflx Lab 800T",
+  "film": {
+    "brand": "Relfx Lab",
+    "model": "800T"
+  },
   "format": "135",
   "camera": "Olympus MJU I",
   "date": {
@@ -11,11 +14,13 @@
     "lab": "大连, 感光实验室",
     "process": "C-41"
   },
-  "digitization": {
-    "method": "scanner",
-    "brand": "Noritsu",
-    "model": "HS-1800"
-  },
+  "digitization": [
+    {
+      "method": "scanner",
+      "brand": "Noritsu",
+      "model": "HS-1800"
+    }
+  ],
   "note": "",
   "updated": "2026-09-09T02:20:12.944Z"
 }

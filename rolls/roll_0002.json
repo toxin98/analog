@@ -1,6 +1,9 @@
 {
   "id": "roll_0002",
-  "film": "Kodak 5213",
+  "film": {
+    "brand": "Kodak",
+    "model": "Vision3 200T 5213"
+  },
   "format": "135",
   "camera": "Pentax KX",
   "date": {
@@ -11,11 +14,13 @@
     "lab": "上海, F212沸点",
     "process": "ECN-2"
   },
-  "digitization": {
-    "method": "scanner",
-    "brand": "Noritsu",
-    "model": ""
-  },
+  "digitization": [
+    {
+      "method": "scanner",
+      "brand": "Noritsu",
+      "model": ""
+    }
+  ],
   "note": "",
   "updated": "2026-09-09T02:26:13.600Z"
 }
