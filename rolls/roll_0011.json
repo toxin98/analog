@@ -14,13 +14,7 @@
     "lab": "",
     "process": ""
   },
-  "digitization": [
-    {
-      "method": "",
-      "brand": "",
-      "model": ""
-    }
-  ],
+  "digitization": [],
   "note": "机器是date版本，胶片是日淘的相机里自带的，推算过期30年，按50拍",
   "updated": "2026-09-09T02:25:20.314Z"
 }

@@ -11,16 +11,10 @@
     "finished": "2026-09-05"
   },
   "development": {
-    "lab": "没想好",
+    "lab": "",
     "process": ""
   },
-  "digitization": [
-    {
-      "method": "",
-      "brand": "",
-      "model": ""
-    }
-  ],
+  "digitization": [],
   "note": "",
-  "updated": "2026-09-09T02:58:49.376Z"
+  "updated": "2026-09-10T18:10:45.974Z"
 }
