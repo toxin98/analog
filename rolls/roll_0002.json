@@ -16,6 +16,7 @@
   },
   "digitization": [
     {
+      "folder": "0002",
       "method": "scanner",
       "brand": "Noritsu",
       "model": "Unkown"

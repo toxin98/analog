@@ -16,6 +16,7 @@
   },
   "digitization": [
     {
+      "folder": "0009",
       "method": "scanner",
       "brand": "Fujifilm",
       "model": "Frontier SP-500"

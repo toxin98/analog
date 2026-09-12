@@ -16,6 +16,7 @@
   },
   "digitization": [
     {
+      "folder": "0004",
       "method": "scanner",
       "brand": "Fujifilm",
       "model": "Frontier SP-3000"

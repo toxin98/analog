@@ -16,6 +16,7 @@
   },
   "digitization": [
     {
+      "folder": "0014",
       "method": "scanner",
       "brand": "Noritsu",
       "model": "HS-1800"
