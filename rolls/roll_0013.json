@@ -1,27 +1,20 @@
 {
   "id": "roll_0013",
   "film": {
-    "brand": "Relfx Lab",
-    "model": "800T"
+    "brand": "Kodak",
+    "model": "Vision3 500T 5219"
   },
   "format": "135",
-  "camera": "Olympus MJU I",
+  "camera": "Pentax MX",
   "date": {
-    "started": "2026-08-16",
-    "finished": "2026-08-16"
+    "started": "2026-09-05",
+    "finished": "2026-09-05"
   },
   "development": {
-    "lab": "大连, 感光实验室",
-    "process": "C-41"
+    "lab": "",
+    "process": ""
   },
-  "digitization": [
-    {
-      "folder": "0013",
-      "method": "scanner",
-      "brand": "Noritsu",
-      "model": "HS-1800"
-    }
-  ],
-  "note": "",
-  "updated": "2026-09-09T02:20:12.944Z"
+  "digitization": [],
+  "note": "迫冲1600",
+  "updated": "2026-09-10T18:10:45.974Z"
 }

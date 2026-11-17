@@ -1,20 +1,27 @@
 {
   "id": "roll_0011",
   "film": {
-    "brand": "Fujifilm",
-    "model": "Super HG 400"
+    "brand": "Relfx Lab",
+    "model": "800T"
   },
   "format": "135",
-  "camera": "Pentax PC35AF",
+  "camera": "Olympus MJU I",
   "date": {
-    "started": "2026-02-21",
-    "finished": "2026-10-02"
+    "started": "2026-08-16",
+    "finished": "2026-08-16"
   },
   "development": {
-    "lab": "",
-    "process": ""
+    "lab": "大连, 感光实验室",
+    "process": "C-41"
   },
-  "digitization": [],
-  "note": "机器是date版本，胶片是日淘的相机里自带的，推算过期30年，按50拍",
-  "updated": "2026-09-09T02:25:20.314Z"
+  "digitization": [
+    {
+      "folder": "0013",
+      "method": "scanner",
+      "brand": "Noritsu",
+      "model": "HS-1800"
+    }
+  ],
+  "note": "",
+  "updated": "2026-09-09T02:20:12.944Z"
 }
