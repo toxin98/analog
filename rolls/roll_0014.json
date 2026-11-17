@@ -11,14 +11,15 @@
     "finished": "2026-11-07"
   },
   "development": {
-    "lab": "",
-    "process": ""
+    "lab": "大连, 感光实验室",
+    "process": "ECN-2"
   },
   "digitization": [
     {
-      "method": "",
-      "brand": "",
-      "model": ""
+      "folder": "0013",
+      "method": "scanner",
+      "brand": "Noritsu",
+      "model": "HS-1800"
     }
   ],
   "note": "黑色KX#8076127拍摄，手机app测光完成",

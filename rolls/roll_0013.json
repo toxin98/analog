@@ -11,10 +11,17 @@
     "finished": "2026-09-05"
   },
   "development": {
-    "lab": "",
-    "process": ""
+    "lab": "大连, 感光实验室",
+    "process": "ECN-2"
   },
-  "digitization": [],
+  "digitization": [
+    {
+      "folder": "0013",
+      "method": "scanner",
+      "brand": "Noritsu",
+      "model": "HS-1800"
+    }
+  ],
   "note": "迫冲1600",
   "updated": "2026-09-10T18:10:45.974Z"
 }
