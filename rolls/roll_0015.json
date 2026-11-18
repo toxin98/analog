@@ -1,8 +1,8 @@
 {
   "id": "roll_0015",
   "film": {
-    "brand": "Kodak",
-    "model": "Gold 200"
+    "brand": "Fujifilm",
+    "model": "Fujicolor C200"
   },
   "format": "135",
   "camera": "Pentax PC35AF",
@@ -22,6 +22,6 @@
       "model": "Frontier SP-500"
     }
   ],
-  "note": "黑色KX#8076127拍摄，手机app测光完成",
+  "note": "",
   "updated": "2026-11-18T10:21:57.808Z"
 }
