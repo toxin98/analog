@@ -1,0 +1,27 @@
+{
+  "id": "roll_0015",
+  "film": {
+    "brand": "Kodak",
+    "model": "Gold 200"
+  },
+  "format": "135",
+  "camera": "Pentax PC35AF",
+  "date": {
+    "started": "2026-11-16",
+    "finished": "2026-11-16"
+  },
+  "development": {
+    "lab": "上海, After Art",
+    "process": "C-41"
+  },
+  "digitization": [
+    {
+      "folder": "0015",
+      "method": "scanner",
+      "brand": "Fujifilm",
+      "model": "Frontier SP-500"
+    }
+  ],
+  "note": "黑色KX#8076127拍摄，手机app测光完成",
+  "updated": "2026-11-18T10:21:57.808Z"
+}
